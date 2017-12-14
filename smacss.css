@@ -1,0 +1,48 @@
+body                 { font-family: 'Lato-Regular'; }   
+.font-italic         { font-style: italic; }
+.font-bold           { font-weight: 600; }
+.font-light          { font-weight:200; }
+.m-auto              { margin:auto; }
+.m-r-2               { margin-right: 2px; }
+.margin-top          { margin-top: 60px; }
+.margin-t-35         { margin-top: 35px; }
+.margin-b-40         { margin-bottom: 40px; }
+.div-padding         { padding: 0px; }
+.margin-0            { margin: 0px; }
+.margin-5            { margin: 5px; }
+.margin-top-10       { margin-top: 10px; }
+.padding-top-20      { padding-top: 20px; }
+.center              { text-align: center; }
+.left                { text-align: left; }
+.white               { color: #fff; }
+.black               { color: #333; }
+.orange              { color: #ff8e62; }
+.orange-bg           { background-color: #ff8e62; }
+.border              { border: 0px; }
+.h1-font             { font-size: 65px; }
+.h2-font             { font-size: 60px; }
+.h3-font             { font-size: 50px; }
+.h4-font             { font-size: 36px; }
+.h5-font             { font-size: 20px; }
+.h6-font             { font-size: 28px; }
+.p-font              { font-size: 22px; }
+.hr                  { position: relative; border-bottom: 2px solid #ff8e62; }
+.li                  { list-style-type: none; }
+.header-top          { margin-bottom: 100px; }
+.background-1        { background: url("main_bg.jpg") no-repeat; background-size: cover; }
+.background-2        { background: url("talent_bg.jpg") no-repeat; background-size: cover; }
+.media-c             { width: 30%; }
+.media-c1            { width:20%; }
+.middle              { vertical-align: middle; }
+.ul-li li            { background: url(small_veena.png) no-repeat 0px 0px; padding-left: 40px; padding-bottom:15px; }
+.carousel-icon       { position: absolute; bottom: -25px; left: 48%; }
+.carousel-icon-1     { position: absolute;top: -45px;left: 46%;}
+.deals               { background-color: #fff;}
+.deals-1             { position: relative; height: 350px;}
+.price               { background-color: #3a3a3a; padding: 15px; border-radius: 100%; width: 115px; position: absolute; bottom: -55px; left: 35%;}
+.ul li               { background: url(plus.jpg) no-repeat 0px 0px;padding-left: 70px; padding-bottom:5px; border: 2px solid #ff8e62; margin-top: 15px;}
+.footer-bg           { background-color: #283b47; }
+.border-r            { border-right: 2px solid #fff; }
+.carousel-indicators { left: 70%; bottom:-40px;} 
+.carousel-indicators li { background-color: #fff;}
+.carousel-indicators .active { background-color: #ff8e62; border: 0px;}   
